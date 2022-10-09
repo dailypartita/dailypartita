@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailypartita)](https://github.com/dailypartita/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailypartita&show_icons=true&theme=radical)](https://github.com/dailypartita/github-readme-stats)
 
 
 
